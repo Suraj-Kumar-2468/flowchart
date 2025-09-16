@@ -1,4 +1,4 @@
-import { ChoiceGroup, TextField } from "office-ui-fabric-react";
+import { ChoiceGroup, TextField } from "@fluentui/react";
 import { Dropdown } from '@fluentui/react/lib/Dropdown';
 import React, { memo, useState } from "react";
 import { Icon } from "@fluentui/react/lib/Icon";

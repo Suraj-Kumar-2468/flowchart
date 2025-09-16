@@ -5,7 +5,7 @@
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
-    "@fluentui/react": "^8.118.3",
+    "@fluentui/react": "^8.123.6",
     "@mui/material": "^5.15.18",
     "@reduxjs/toolkit": "^2.2.5",
     "@testing-library/jest-dom": "^5.17.0",
@@ -25,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "buildCommand": "vercel build",
+  "installCommand": "npm ci --legacy-peer-deps"
   },
   "eslintConfig": {
     "extends": [

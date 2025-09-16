@@ -1,6 +1,6 @@
 import { IconButton } from "@fluentui/react";
 import { initializeIcons } from "@uifabric/icons";
-import { TextField, DefaultButton } from "office-ui-fabric-react";
+import { TextField, DefaultButton } from "@fluentui/react";
 import { Dropdown } from '@fluentui/react/lib/Dropdown';
 import React from "react";
 

@@ -4,7 +4,7 @@ import {
   ChoiceGroup,
   Label,
   TextField,
-} from "office-ui-fabric-react";
+} from "@fluentui/react";
 import { Dropdown } from "@fluentui/react/lib/Dropdown";
 import { Handle, Position } from "reactflow";
 import { useDispatch, useSelector } from "react-redux";

@@ -18,7 +18,7 @@ import {
 import ButtonEdge from "./ButtonEdge";
 import "reactflow/dist/style.css";
 import "./overview.css";
-import { PrimaryButton } from "office-ui-fabric-react";
+import { PrimaryButton } from "@fluentui/react";
 import { Drawer } from "@mui/material";
 import AddComponentForm from "./AddComponentForm";
 import { DefaultButton } from "@fluentui/react";
